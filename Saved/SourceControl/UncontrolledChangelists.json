@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Maps/TestMap.umap",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Assets/SM_Chess_Board_Frame.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Assets/SM_Bishop.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Assets/SM_Rook.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Assets/SM_Queen.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Assets/SM_Pawn.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Assets/SM_Knight.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Assets/SM_King.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Assets/SM_ChessBoardSquare.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Audio/Teleport.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Textures/LightWood.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Textures/HollowCircleMask.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Textures/DarkWood.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Blueprints/BP_Player.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Blueprints/BP_GameMode.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Blueprints/Board/BP_Board.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Blueprints/Board/BP_BoardSquares.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Blueprints/ChessPieces/BP_ChessPiece.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Materials/M_Color.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Blueprints/EN_Color.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Materials/MI_SquareDark.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Materials/MI_SquareLight.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Materials/MI_ChessPieceLight.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Materials/MI_ChessPieceDark.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Materials/M_Marker.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Materials/MI_MarkerSelect.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Materials/MI_MarkerHighlight.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Materials/MI_MarkerAttack.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Materials/M_DarkWood.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Materials/M_LightWood.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Maps/_GENERATED/900su/Cylinder_10C29C7C.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Blueprints/ST_Player.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Blueprints/ST_Move.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/UI/Fonts/Deadly_Advance_Italic_Font.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/UI/Fonts/Deadly_Advance_Italic.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/UI/Fonts/Deadly_Advance_Font.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/UI/Fonts/Deadly_Advance.uasset",
+				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/UI/UI_Main.uasset"
+			]
+		}
+	]
+}
