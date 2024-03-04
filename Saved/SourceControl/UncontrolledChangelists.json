@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects/ChessTutorialInBP/Content/Chess/UI/UI_Main.uasset",
+				"D:/Unreal Projects/ChessTutorialInBP/Content/Chess/Blueprints/BP_PlayerController.uasset",
+				"D:/Unreal Projects/ChessTutorialInBP/Content/Chess/Blueprints/BP_GameMode.uasset",
+				"D:/Unreal Projects/ChessTutorialInBP/Content/Chess/Blueprints/BP_Player.uasset",
+				"D:/Unreal Projects/ChessTutorialInBP/Content/Chess/Maps/TestMap_BuiltData.uasset",
+				"D:/Unreal Projects/ChessTutorialInBP/Content/Chess/Maps/TestMap.umap",
+				"D:/Unreal Projects/ChessTutorialInBP/Content/Chess/Materials/M_LightWood.uasset",
 				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Maps/TestMap.umap",
 				"C:/Users/900su/Documents/Unreal Projects/ChessTutorialInBP/Content/Chess/Assets/SM_Chess_Board_Frame.uasset",
